@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+
+    api:
+      image:  apiscancam01_api
+      container_name: Back_final
+      build: ./apiscancam01
+      ports:
+        - 3001:3001
+
+    front:
+      image: fscan-cam-front
+      container_name: front_final
+      build: ./scan-cam-front
+      ports:
+        - 8100:8100
+        
+
