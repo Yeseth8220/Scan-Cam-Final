@@ -127,15 +127,15 @@ Prontamente una versión 2.0 de la mano de mi equipo de trabajo, con animos de s
 
 ### Carpetas con la modificación de diseño y y funcionalidad de los charts
 
-###Front
+### Front
 
-  |_Archivos Modificados
+    |_Archivos Modificasos
     |__estadisticas.page.html
-        |__Mejoramiento de diseño y tamaños de las tablas cn una card con abreviaturas 
+        |__Mejoramiento de diseño, agregando card con abreviaturas de los charts
     |__estadisticas.page.css
-        |__Mejoramiento de diseño cambiendo tamaños y ubicación
+        |__Mejoramiento de diseño y tamaños
     |__estadisticas.page.ts
-        |__cambio de la conexión de la api y modificación de la funcionalidad de los charts
+        |__Conexión con la api y uso de la funcionalidad al cambio de roles
         
 ### Api
         
